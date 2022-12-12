@@ -1,0 +1,2 @@
+# ownprject
+for own prjt
